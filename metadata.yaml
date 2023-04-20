@@ -1,0 +1,39 @@
+_repo: Prejudices_70393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flandrau, Charles Macomb
+    aliases:
+    - Flandrau, C. M. (Charles Macomb)
+    - Flandrau, Charles Eugene
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '42959'
+    url: http://www.gutenberg.org/2009/agents/42959
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Macomb_Flandrau
+description: '"These extracts from my notebook originally appeared in The Bellman."'
+gutenberg_issued: '2023-03-27'
+identifiers:
+  gutenberg: '70393'
+  lccn: '2021769999'
+language: en
+pgterms:marc904: https://archive.org/details/prejudices00flanrich
+pgterms:marc905: 20230103040625flandrau
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Some dogs -- Little pictures of people -- Wanderlust -- Travel --
+  Fellow passengers -- Parents and children -- What is education? -- Just a letter
+  -- In the undertaker's shop -- Writers -- "Ann Veronica" -- Holidays -- Servants
+  -- Mrs. White's.
+title: Prejudices
+url: http://www.gutenberg.org/ebooks/70393
